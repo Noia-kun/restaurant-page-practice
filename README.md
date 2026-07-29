@@ -4,7 +4,7 @@ A single-page restaurant website built as part of [The Odin Project](https://www
 
 ## Live Demo
 
-https://yourusername.github.io/restaurant-page/
+https://noia-kun.github.io/restaurant-page/
 
 ## Features
 
