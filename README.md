@@ -4,7 +4,7 @@ A single-page restaurant website built as part of [The Odin Project](https://www
 
 ## Live Demo
 
-https://noia-kun.github.io/restaurant-page/
+[Restaurant Page Demo](https://noia-kun.github.io/restaurant-page-practice/)
 
 ## Features
 
@@ -22,7 +22,7 @@ https://noia-kun.github.io/restaurant-page/
 
 ## Project Structure
 
-\`\`\`
+```
 restaurant-page/
 ├── src/
 │   ├── pages/
@@ -35,22 +35,22 @@ restaurant-page/
 ├── webpack.config.js
 ├── package.json
 └── .gitignore
-\`\`\`
+```
 
 ## Running Locally
 
-\`\`\`bash
+```bash
 npm install
 npm run start
-\`\`\`
+```
 
 Then open `http://localhost:8080`.
 
 ## Building
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 Outputs the production bundle to `dist/`.
 
